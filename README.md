@@ -46,6 +46,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
+#### Monash University
+Bachelor of Business, 2004
+
 ##### LNCT Bhopal
 Engineering Graduate 2010-14, First Division
 
