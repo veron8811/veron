@@ -25,6 +25,7 @@ I have contributed as an AI product developer (R&D unit) and been AI consultant 
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracurricular](#extracurricular) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -84,3 +85,5 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+#### Extracurricular
